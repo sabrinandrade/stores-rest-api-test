@@ -1,5 +1,0 @@
-Flask
-Flask-RESTful
-Flask-SQLAlchemy
-psycopg2
-flask_jwt
