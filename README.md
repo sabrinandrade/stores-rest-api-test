@@ -1,2 +1,2 @@
 # junit-python
-Repository of simple jUnit tests in Python
+Test automation in Python with dummy projects
