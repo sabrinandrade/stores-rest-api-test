@@ -19,7 +19,11 @@
       <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/.idea/starter-code.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/tests/base_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/tests/integration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/tests/integration/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/tests/integration/models/test_item.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/tests/unit/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/tests/unit/models/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rest-api/starter-code/tests/unit/models/test_item.py" afterDir="false" />
@@ -36,12 +40,13 @@
     <session id="-885830805">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
