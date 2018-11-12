@@ -1,0 +1,6 @@
+# pip install virtualenv
+# cd /Users/MarkVII/Dropbox/Projetos/TestingWithPython
+# virtualenv venv --python=python3.6
+# if something happens, verify if you are using conda as a package manager instead of pip
+# mkdir blog
+
