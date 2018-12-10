@@ -1,9 +1,9 @@
 from models.store import StoreModel
 from models.item import ItemModel
-from tests.integration.integration_base_test import IntegrationBaseTest
+from tests.base_test import BaseTest
 
 
-class TestStoreIntegration(IntegrationBaseTest):
+class StoreTest(BaseTest):
     def test_json_without_items(self):
         store = StoreModel('json store')
         expected = {

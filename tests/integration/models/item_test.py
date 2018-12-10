@@ -1,9 +1,9 @@
 from models.item import ItemModel
 from models.store import StoreModel
-from tests.integration.integration_base_test import IntegrationBaseTest
+from tests.base_test import BaseTest
 
 
-class ItemTestIntegration(IntegrationBaseTest):
+class ItemTest(BaseTest):
     def test_crud(self):
         with self.app_context():
             self.assertIsNone(StoreModel.find_by_name('test store'),
