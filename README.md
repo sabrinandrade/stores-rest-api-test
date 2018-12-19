@@ -12,7 +12,3 @@ The core of the API was not built from ground up, and the goal for this project 
 * Flask RESTful
 * Flask-JWT
 * Flask-SQLAlchemy
-
-## Tools used to test the API:
-* Newman and Postman
-* Selenium Webdriver
